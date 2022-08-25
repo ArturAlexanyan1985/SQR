@@ -1,5 +1,4 @@
 package ru.netology.sqr;
-
 public class SQRService {
     public int calculate (int min, int max) {
         int count = 0;
